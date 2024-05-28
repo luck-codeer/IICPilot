@@ -1,6 +1,6 @@
 #加入user_proxy agent(与用户交互)，解析用户需求的模块
 import os
-os.environ["OPENAI_API_KEY"] = "sk-proj-uvZ8UZfsA7LkDczgL2olT3BlbkFJxVeiSS9xjn8RdE3VC6q2"
+os.environ["OPENAI_API_KEY"] = "xxx"
 # os.environ["OPENAI_API_BASE"] = 'https://api.xty.app/v1'
 from langchain_core.tools import tool
 from typing import Annotated, List, Tuple, Union

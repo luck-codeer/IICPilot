@@ -1,0 +1,27 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: optimize
+spec:
+  containers:
+  - command:
+    - sleep
+    - infinity
+    image: jiangzesong/iicpilot:latest
+    name: test
+    resources:
+      limits:
+        cpu: 1024m
+        memory: 16384Mi
+      requests:
+        cpu: 1024m
+        memory: 16384Mi
+    volumeMounts:
+    - mountPath: /IICPilot
+      name: data-volume
+  dnsPolicy: ClusterFirstWithHostNet
+  hostNetwork: true
+  volumes:
+  - hostPath:
+      path: /home/dell/jiangzesong/IICPilot
+    name: data-volume

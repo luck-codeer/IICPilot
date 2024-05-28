@@ -1,0 +1,250 @@
+simple_gpio runtime:23.49225664138794
+   Number of cells:                150
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:      55
+   Number of public wires:          34
+   Number of wire bits:            164
+   Number of wires:                143
+
+nec runtime:24.498498678207397
+   Number of cells:                444
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     135
+   Number of public wires:         128
+   Number of wire bits:            447
+   Number of wires:                440
+
+ca_prng runtime:24.397162199020386
+   Number of cells:                845
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:      85
+   Number of public wires:          16
+   Number of wire bits:            890
+   Number of wires:                821
+
+freq_div runtime:22.58795738220215
+   Number of cells:                 77
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:      16
+   Number of public wires:          16
+   Number of wire bits:             79
+   Number of wires:                 79
+
+sasc runtime:24.590487241744995
+   Number of cells:                675
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     204
+   Number of public wires:         162
+   Number of wire bits:            737
+   Number of wires:                695
+
+counter runtime:13.411275148391724
+   Number of cells:                 46
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:      10
+   Number of public wires:           3
+   Number of wire bits:             48
+   Number of wires:                 41
+
+calendar runtime:22.25906491279602
+   Number of cells:                116
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:      20
+   Number of public wires:           5
+   Number of wire bits:            118
+   Number of wires:                103
+
+gcd runtime:25.694207191467285
+   Number of cells:                639
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     498
+   Number of public wires:         147
+   Number of wire bits:           1044
+   Number of wires:                693
+
+accu runtime:23.375577449798584
+   Number of cells:                121
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:      25
+   Number of public wires:           9
+   Number of wire bits:            132
+   Number of wires:                116
+
+simple_spi_top runtime:25.205875873565674
+   Number of cells:                897
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     221
+   Number of public wires:         178
+   Number of wire bits:            959
+   Number of wires:                916
+
+nescontroller runtime:25.673460006713867
+   Number of cells:                149
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:      36
+   Number of public wires:          22
+   Number of wire bits:            154
+   Number of wires:                140
+
+uart runtime:22.984270334243774
+   Number of cells:                887
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     185
+   Number of public wires:         112
+   Number of wire bits:            978
+   Number of wires:                905
+
+sha256 runtime:49.29045295715332
+   Number of cells:               6039
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     529
+   Number of public wires:         506
+   Number of wire bits:           6055
+   Number of wires:               6032
+
+sha1 runtime:48.42385673522949
+   Number of cells:               8835
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     948
+   Number of public wires:         881
+   Number of wire bits:           8873
+   Number of wires:               8806
+
+cavlc runtime:43.6093053817749
+   Number of cells:               5368
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:    1103
+   Number of public wires:         407
+   Number of wire bits:           6045
+   Number of wires:               5349
+
+cf_fp_mul_p_5_10 runtime:48.04378151893616
+   Number of cells:               4500
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:    2546
+   Number of public wires:        1255
+   Number of wire bits:           6225
+   Number of wires:               4934
+
+tv80s_top runtime:46.65800356864929
+   Number of cells:               5977
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     828
+   Number of public wires:         602
+   Number of wire bits:           6286
+   Number of wires:               6060
+
+adder_64bit runtime:32.40041732788086
+   Number of cells:               1081
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     492
+   Number of public wires:         302
+   Number of wire bits:           1212
+   Number of wires:               1022
+
+i2c_master runtime:36.87935543060303
+   Number of cells:               1117
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:     277
+   Number of public wires:         214
+   Number of wire bits:           1227
+   Number of wires:               1164
+
+minimac runtime:160.67229557037354
+   Number of cells:              16983
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:    3386
+   Number of public wires:        2780
+   Number of wire bits:          17583
+   Number of wires:              16977
+
+cf_cordic_v_32_32_32 runtime:260.0551710128784
+   Number of cells:              52334
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:   20388
+   Number of public wires:        9263
+   Number of wire bits:          64029
+   Number of wires:              52904
+
+aes_cipher_top runtime:157.81871390342712
+   Number of cells:              18664
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:    1713
+   Number of public wires:         770
+   Number of wire bits:          19535
+   Number of wires:              18592
+
+picorv32a runtime:170.24123072624207
+   Number of cells:              20005
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:    2077
+   Number of public wires:        1571
+   Number of wire bits:          20241
+   Number of wires:              19735
+
+tinyriscv runtime:186.49407815933228
+   Number of cells:              29702
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:    7668
+   Number of public wires:        3220
+   Number of wire bits:          34312
+   Number of wires:              29864
+
+fpu runtime:226.9750635623932
+   Number of cells:              58172
+   Number of processes:              0
+   Number of memory bits:            0
+   Number of memories:               0
+   Number of public wire bits:    6701
+   Number of public wires:        5333
+   Number of wire bits:          59543
+   Number of wires:              58175
+

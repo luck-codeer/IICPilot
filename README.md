@@ -28,15 +28,9 @@ pip3 langchain
 pip install -qU langchain-openai
 (LangChain is an open-source framework that aims to empower the utilization of Large Language Models (LLMs) and we use GPT-4 as an example.)
   
-For example, if your project is a Python library, you can write:  
   
-
-
-## 2. Run Makefile [^2]
-[^2]: We have recently provided an automated Python script (auto_run.py) that you can use as a one-click compilation for all designs after simple modification.
-
-You can run makefile to test the functionality of the code.
-
+## 2. Usage [^2]
+We only need to call multi-agent system and make a request to it to complete a series of IC backend work
 Step 1. Replace #DESIGN_NAME# with the design name you need to test.
 ```
 TEST_DESIGN = #DESIGN_NAME#

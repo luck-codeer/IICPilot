@@ -21,9 +21,9 @@ Below are the website addresses of two projects：
 ## Installation  
 
 pip3 install hypermapper
-(hypermapper is an open source tool used in design space exploration. The relevant website is: https://github.com/luinardi/hypermapper)
+(hypermapper is an open source tool used in design space exploration, we use it for optimizing chip performance. The relevant website is: https://github.com/luinardi/hypermapper.)
 pip3 install optuna
-
+(optuna is an open-source hyperparameter optimization framework written in Python, we use it for optimizing the time prediction model.)
   
 For example, if your project is a Python library, you can write:  
   

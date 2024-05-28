@@ -29,13 +29,18 @@ pip install -qU langchain-openai
 (LangChain is an open-source framework that aims to empower the utilization of Large Language Models (LLMs) and we use GPT-4 as an example.)
   
   
-## 2. Usage [^2]
+## 2. Usage
 We only need to call multi-agent system and make a request to it to complete a series of IC backend work
-Step 1. Replace #DESIGN_NAME# with the design name you need to test.
-```
-TEST_DESIGN = #DESIGN_NAME#
-```
-Step 2. Compile the Verilog file.
+Step 1. To enter the target path.
 
-```bash  
-pip install your-package-name
+```bash
+cd ./multi-agent-system
+```
+Step 2. run the agent.py
+
+```python3
+python3 agent.py
+```
+
+### 3. Experiment
+

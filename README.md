@@ -20,6 +20,8 @@ Below are the website addresses of two projects：
 2. iEDA: https://gitee.com/oscc-project/iEDA
 ## Installation  
 
+1. source myenv/bin/activate
+2. pip3 install -r requirement.txt
 pip3 install hypermapper
 (hypermapper is an open source tool used in design space exploration, we use it for optimizing chip performance. The relevant website is: https://github.com/luinardi/hypermapper.)
 
@@ -29,8 +31,11 @@ pip3 install optuna
 pip3 langchain
 pip install -qU langchain-openai
 (LangChain is an open-source framework that aims to empower the utilization of Large Language Models (LLMs) and we use GPT-4 as an example.)
-  
-  
+
+## Preparation
+1. A secure VPN that can connect to the internet.
+2. Create the container for testing.
+kubectl apply -f test.yaml
 ## Usage
 We only need to call multi-agent system and make a request to it to complete a series of IC backend work
 Step 1. To enter the target path.
